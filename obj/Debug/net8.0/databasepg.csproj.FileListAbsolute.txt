@@ -18,3 +18,14 @@ C:\Users\Shikovskiy.MA\source\repos\databasepg\databasepg\obj\Debug\net8.0\datab
 C:\Users\Shikovskiy.MA\source\repos\databasepg\databasepg\obj\Debug\net8.0\databasepg.genruntimeconfig.cache
 C:\Users\Shikovskiy.MA\source\repos\databasepg\databasepg\obj\Debug\net8.0\ref\databasepg.dll
 C:\Users\Shikovskiy.MA\source\repos\databasepg\databasepg\bin\Debug\net8.0\websocket-sharp.dll
+C:\Users\Shikovskiy.MA\source\repos\databasepg\databasepg\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Shikovskiy.MA\source\repos\databasepg\databasepg\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Shikovskiy.MA\source\repos\databasepg\databasepg\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Shikovskiy.MA\source\repos\databasepg\databasepg\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Shikovskiy.MA\source\repos\databasepg\databasepg\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Shikovskiy.MA\source\repos\databasepg\databasepg\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Shikovskiy.MA\source\repos\databasepg\databasepg\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Shikovskiy.MA\source\repos\databasepg\databasepg\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Shikovskiy.MA\source\repos\databasepg\databasepg\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Shikovskiy.MA\source\repos\databasepg\databasepg\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Shikovskiy.MA\source\repos\databasepg\databasepg\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll

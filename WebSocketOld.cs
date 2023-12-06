@@ -15,16 +15,27 @@ namespace databasepg
             
             Console.WriteLine("Received message from client: " + e.Data);
 
-            Send("Клиент прислал: " + e.Data);
-            //while (true)
-            //{
-            //    Thread.Sleep(2000);
-            //    Send("Клиент прислал: " + e.Data);
-            //    Console.WriteLine("Клиент прислал: " + e.Data);
-            //}
+            //Send("Клиент прислал: " + e.Data);
+            //Send(DBPG.Pkge);
+            while (true)
+            {
+
+                Thread.Sleep(1000);
+                //Send("Клиент прислал: " + e.Data);
+                
+                Send(DBPG.Pkge);
+                    
+                //Thread.Sleep(1000);
+                //Send(DBPG.Pkge2);
+                
+                
+                //Console.WriteLine("Клиент прислал: " + e.Data);
+            }
 
         }
+        
     }
+    
     public class WebSocketOld: DBPG
     {
         public static void ForceWebSocket()
@@ -36,8 +47,8 @@ namespace databasepg
             Console.WriteLine("Start server WebSocket");
             
             server.AddWebSocketService<Echo>("/Echo");
-
             
+            DBPG.ForceBD();
             Console.ReadKey();
             server.Stop();
         }
