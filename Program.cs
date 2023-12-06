@@ -13,11 +13,11 @@ namespace Driver
 
         static void Main(string[] args)
         {
-           
-            WebSocketOld.ForceWebSocket();
+
+            //WebSocketOld.ForceWebSocket();
 
             //DBPG.ForceBD();
-
+            testDataBase.DataBasePostgreSQL();
             
 
 
